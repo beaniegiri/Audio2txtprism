@@ -1,6 +1,3 @@
-git+https://github.com/openai/whisper.git
+datasets
 torch
-numpy
-tqdm
-ffmpeg-python
-turbo
+pandas
