@@ -1,0 +1,252 @@
+[
+  {
+    "id": "YOU1000000134_S0000042",
+    "ground_truth": "ONE OF THEIR STANFORD PROFESSORS USED TO SAY <COMMA> WELL <COMMA> THE DIFFERENCE BETWEEN THE TWO OF THEM WAS THAT SERGEI WOULD JUST BURST INTO MY OFFICE WITHOUT ASKING <PERIOD> LARRY WOULD KNOCK AND THEN BURST IN <PERIOD>",
+    "prediction": " One of their Stanford professors used to say, well, the difference between the two of them was that Sergey would just burst into my office without asking, Larry would knock, and then burst in."
+  },
+  {
+    "id": "YOU1000000117_S0000062",
+    "ground_truth": "UM ONE OF THOSE THINGS COMES FROM A REFOCUS THAT YOU REALLY NEED TO PROTECT YOU OWN MENTAL HEALTH NEEDS DURING THIS TIME <PERIOD>",
+    "prediction": " One of those things comes from a refocus that you really need to protect your own mental health needs during this time."
+  },
+  {
+    "id": "POD1000000040_S0000736",
+    "ground_truth": "<OTHER>",
+    "prediction": " True it's on the true grit. Yeah. Yeah. I've got that book. Yeah house actually"
+  },
+  {
+    "id": "YOU1000000153_S0000050",
+    "ground_truth": "YEAH WE REALLY WANT TO CAPITALIZE ON THE VIEW AND BRING IN AS MUCH NATURAL LIGHT AS POSSIBLE FOR A TINY HOUSE <PERIOD> I THINK IT'S A BIT SMALL <PERIOD> I CAN FEEL EVEN SMALLER IF IT DOESN'T HAVE THAT NATURAL LIGHT <PERIOD> AND THAT JUST MAKES A FEW AREA BRIGHTENED <PERIOD> DOES IT MAKE YOU FEEL SO CLAUSTROPHOBIC I THINK <PERIOD>",
+    "prediction": " Yeah, we really wanted to capitalise on the view and bring in as much natural light as possible. For a tiny house, I think if it's small it can feel even smaller if it doesn't have that natural light and that just makes it feel airy and bright and doesn't make you feel so claustrophobic I think."
+  },
+  {
+    "id": "YOU1000000129_S0000002",
+    "ground_truth": "IN TODAY'S VIDEO WILL EXPLORE HOW ONE SCOTTISH IMMIGRANT ARMED WITH JUST FIVE YEARS OF SCHOOLING WOULD RISE FROM POVERTY TO THE STATUS OF THE WORLD'S RICHEST MAN <PERIOD>",
+    "prediction": " In today's video, we'll explore how one Scottish immigrant armed with just five years of schooling would rise from poverty to the status of the world's richest man."
+  },
+  {
+    "id": "POD1000000036_S0000018",
+    "ground_truth": "DO YOU THINK THERE'S A CHANCE WE'LL SEE COMPANIES BASICALLY DEFAULTING TO JUST NOT COLLECTING ANY DATA LIKE THIS AH AH AT THE RISK OF IT SOMEHOW BEING REGULATED IN THE FUTURE <QUESTIONMARK>",
+    "prediction": " Do you think there's a chance we'll see companies basically defaulting to just not collecting any data like this at the risk of it somehow being regulated in the future?"
+  },
+  {
+    "id": "YOU1000000039_S0000103",
+    "ground_truth": "ONCE THEY ARRIVED IN CAMP <COMMA> THEY MET UP WITH SCOTT <COMMA> AND THEIR YOUTH HUNTER <COMMA> GRACIE PATE <PERIOD> GRACIE'S THIRTEEN AND HAS TAGGED A FEW DEER BUT NEVER BEEN ABLE TO TAG A TURKEY <PERIOD>",
+    "prediction": " Once they arrived in camp, they met up with Scott and their youth hunter, Gracie Pape. Gracie's 13 and has tagged a few deer, but never been able to tag a turkey."
+  },
+  {
+    "id": "YOU1000000147_S0000005",
+    "ground_truth": "THESE BABIES PROBABLY AREN'T PART OF YOUR TYPICAL FRIDAY NIGHT DINNER <COMMA> THERE ARE MANY VARIETIES OF THIS LEGENDARY DELICACY <COMMA> BUT JUST ONE CAN BE NAMED THE LITERAL KING OF ALL OYSTERS <PERIOD>",
+    "prediction": " these babies probably aren't part of your typical Friday night dinner. There are many varieties of this legendary delicacy, but just one can be named the literal king of all oysters."
+  },
+  {
+    "id": "YOU1000000168_S0000122",
+    "ground_truth": "<MUSIC>",
+    "prediction": " you"
+  },
+  {
+    "id": "YOU1000000122_S0000081",
+    "ground_truth": "THAT SAID ASTRONOMY IS FACING A TIDAL WAVE OF DATA <PERIOD>",
+    "prediction": " That said, astronomy is facing a total wave of data."
+  },
+  {
+    "id": "POD1000000046_S0001220",
+    "ground_truth": "YEAH <PERIOD>",
+    "prediction": " Yeah."
+  },
+  {
+    "id": "YOU1000000157_S0000068",
+    "ground_truth": "<NOISE>",
+    "prediction": " But"
+  },
+  {
+    "id": "POD1000000019_S0000386",
+    "ground_truth": "BECAUSE <COMMA> OF COURSE <COMMA> SHE DID <PERIOD> ALSO THE REVIEW WAS FROM NINETEEN SIXTY-NINE <COMMA> SO IT MAKES SO MUCH MORE SENSE <COMMA> KNOWING THAT IT CAME FROM THAT TIME <PERIOD>",
+    "prediction": " because of course she did. Also the review was from 1969, so it makes so much more sense knowing that it came from that time."
+  },
+  {
+    "id": "POD1000000030_S0000022",
+    "ground_truth": "THE PRICE OF THESE SHOES TO US AMATEURS OUT THERE AH <COMMA> IT SEEMS INCREDIBLY HIGH <PERIOD> IS IT SORT OF WHAT YOU WOULD EXPECT FOR A TOP-OF-THE-LINE RUNNING SHOE <QUESTIONMARK>",
+    "prediction": " The price of these shoes to us amateurs out there, it seems incredibly high. Is it sort of what you would expect for a top-of-the-line running shoe?"
+  },
+  {
+    "id": "YOU1000000111_S0000111",
+    "ground_truth": "<NOISE>",
+    "prediction": ""
+  },
+  {
+    "id": "YOU1000000043_S0000135",
+    "ground_truth": "SO I HOPE I CAN JUST CANCEL THIS <COMMA> NO I CAN'T <COMMA> GO TO MY OVERLAYS <COMMA> OKAY <COMMA> HERE WE GO <PERIOD>",
+    "prediction": " so I hope I can just cancel this, no I can't, go to my overlays, okay here we go"
+  },
+  {
+    "id": "YOU1000000102_S0000127",
+    "ground_truth": "ABOUT VARYING THE AMOUNT OF SPACE BETWEEN DIFFERENT LETTER COMBINATIONS <COMMA> ABOUT WHAT MAKES GREAT TYPOGRAPHY GREAT <PERIOD>",
+    "prediction": " about varying the amount of space between different letter combinations, about what makes great typography great."
+  },
+  {
+    "id": "YOU1000000037_S0000602",
+    "ground_truth": "THE GREEN POLISH <PERIOD>",
+    "prediction": " green polish."
+  },
+  {
+    "id": "POD1000000046_S0001219",
+    "ground_truth": "THIS IS A REALLY BIG DECISION FOR DANE TO MAKE <PERIOD>",
+    "prediction": " This is a really big decision for Dan to make."
+  },
+  {
+    "id": "POD1000000042_S0000701",
+    "ground_truth": "YEAH <PERIOD>",
+    "prediction": " Yeah."
+  },
+  {
+    "id": "POD1000000044_S0000192",
+    "ground_truth": "WELL <COMMA> AH SO I HAVE HAD TO ADVOCATE FOR MYSELF MY ENTIRE LIFE FROM A VERY YOUNG AGE AND NOBODY ADVOCATED FOR ME OR MY BROTHER <PERIOD>",
+    "prediction": " Well, so I have had to advocate for myself my entire life from a very young age, and nobody advocated for me or my brother."
+  },
+  {
+    "id": "YOU1000000185_S0000069",
+    "ground_truth": "AND MANUFACTURING NOT JUST FOR THEIR OWN COUNTRY OR THEIR OWN REGION BUT FOR OTHER PLACES IN THE WORLD <PERIOD> AND SO THAT'S WHAT MAKES US OPTIMISTIC IS THE MANY MANY CONVERSATIONS THAT WE'RE HAVING <PERIOD>",
+    "prediction": " and manufacturing not just for their own country or their own region, but for other places in the world. And so that's what makes us optimistic is the many, many conversations that we're having."
+  },
+  {
+    "id": "YOU1000000106_S0000053",
+    "ground_truth": "WHAT WOULD YOU ORDER AT A DRIVE THROUGH <QUESTIONMARK>",
+    "prediction": " What would you order at a drive-thru?"
+  },
+  {
+    "id": "POD1000000011_S0000050",
+    "ground_truth": "AND I WANT YOU GUYS TO HELP ME FILL IN THAT BLANK <PERIOD> WHAT DOES IT MEAN TO PROMOTE THE LOVE OF MATH EARLY ON <QUESTIONMARK>",
+    "prediction": " And I want you guys to help me fill in that blank. What does it mean to promote the love of math early on?"
+  },
+  {
+    "id": "YOU1000000127_S0000020",
+    "ground_truth": "<MUSIC>",
+    "prediction": ""
+  },
+  {
+    "id": "YOU1000000105_S0000058",
+    "ground_truth": "WHICH YOU KNOW HE DIRECTED THIS FILM AND HE DIRECTED ALL OF YOU KNOW OBVIOUSLY THE MUSICAL MOMENTS IN THE FILM <PERIOD>",
+    "prediction": " But you know, he directed this film. And he directed all of, you know, obviously, the musical moments in the film."
+  },
+  {
+    "id": "YOU1000000164_S0000116",
+    "ground_truth": "A GRIM FORESHADOWING OF THE MAJOR CONFLICT BREWING BETWEEN GENETICALLY ENHANCED PRIMATES AND HUMAN POPULATION DECIMATED BY THE SIMIAN FLU VIRUS <PERIOD>",
+    "prediction": " a grim foreshadowing of the major conflict brewing between genetically enhanced primates and a human population decimated by the simian flu virus."
+  },
+  {
+    "id": "YOU1000000119_S0000029",
+    "ground_truth": "WE CAN ALL AGREE THAT THE ADVENT OF THE INTERNET AND THE WORLD WIDE WEB HAS TRANSFORMED EVERY ASPECT OF OUR LIVES FROM STOCK MARKETS TO STREET CORNER FOOD TRUCKS <PERIOD>",
+    "prediction": " We can all agree that the advent of the internet and the world wide web has transformed every aspect of our lives from stock markets to street corner food trucks."
+  },
+  {
+    "id": "POD1000000046_S0000733",
+    "ground_truth": "<OTHER>",
+    "prediction": " Dane Cook from Mr. Brooks. When you were like, hey man."
+  },
+  {
+    "id": "POD1000000046_S0000816",
+    "ground_truth": "THAT'S NOT WHAT I CARE ABOUT OKAY I DON'T CARE ABOUT YOU GUYS HAVING A GOOD TIME THAT NIGHT <PERIOD>",
+    "prediction": " That's not what I care about. Okay, I don't care about you guys having a good time that night."
+  },
+  {
+    "id": "YOU1000000109_S0000004",
+    "ground_truth": "RONALDO <PERIOD>",
+    "prediction": " Ronaldo!"
+  },
+  {
+    "id": "YOU1000000037_S0000548",
+    "ground_truth": "I MEAN I SHOWED YOU A SHORT CLIP AND YOU MAY HAVE SEEN ABOUT HALF OF THEM <PERIOD>",
+    "prediction": " I mean, I showed you a short clip and you may have seen about half of them."
+  },
+  {
+    "id": "YOU1000000144_S0000025",
+    "ground_truth": "OH MY GOD <EXCLAMATIONPOINT>",
+    "prediction": " OH MY GOD!"
+  },
+  {
+    "id": "YOU1000000117_S0000018",
+    "ground_truth": "THEY REALLY SUGGEST THAT A LOT OF OUR RELATIONSHIP'S SUCCESS HAS TO TO WITH OUR EXPECTATIONS <PERIOD>",
+    "prediction": " they really suggest that a lot of our relationships success has to do with our expectations."
+  },
+  {
+    "id": "YOU1000000043_S0000143",
+    "ground_truth": "IT'S NOT GONNA BE A SUPER PROFITABLE LONG TERM BUSINESS <COMMA> BUT IT COULD DEFINITELY MAKE YOU SOME QUICK CASH WITH THIS <PERIOD>",
+    "prediction": " It's not going to be a super profitable long-term business, but it could definitely make you some quick cash with this."
+  },
+  {
+    "id": "YOU1000000109_S0000093",
+    "ground_truth": "HAS REDEEMED HIMSELF IN STYLE <PERIOD>",
+    "prediction": " has redeemed himself in style."
+  },
+  {
+    "id": "POD1000000045_S0000299",
+    "ground_truth": "AND SO THEY TOOK ALL THESE FORMER SLAVES AND CHILDREN AND PUT THEM IN THESE TRAINING SCHOOLS TO BASICALLY KILL THE ZOMBIES THAT'S THEIR NEW JOB <PERIOD>",
+    "prediction": " And so they took all these former slaves and children and put them in these training schools to basically kill the zombies. That's their new job."
+  },
+  {
+    "id": "POD1000000019_S0000018",
+    "ground_truth": "SELL MORE COPIES <PERIOD> EVEN IF YOU MANAGE TO DO THAT <COMMA> IT'S ONLY A MATTER OF TIME UNTIL YOU PUT OUT A SONG THAT ONLY GOES TO NUMBER TWO OR NUMBER FIVE <PERIOD>",
+    "prediction": " Sell more copies. Even if you manage to do that, it's only a matter of time until you put out a song that only goes to number two or number five."
+  },
+  {
+    "id": "YOU1000000112_S0000104",
+    "ground_truth": "DID HE TRIP HIM <QUESTIONMARK>",
+    "prediction": " Did he trip him?"
+  },
+  {
+    "id": "POD1000000045_S0000076",
+    "ground_truth": "OH MY GOSH WE'RE GONNA MAKE IT THROUGH THIS TOGETHER <PERIOD> BUT I MEAN IT'S DOLLY SINGING BUT ALSO SHE HAS A GOSPEL CHOIR BACKING HER UP IT IS SO GOOD <PERIOD>",
+    "prediction": " Oh my gosh, we're gonna make it through this together. But I mean, it's Dolly singing, but also she has a gospel choir backing her up. It is so good."
+  },
+  {
+    "id": "POD1000000040_S0000191",
+    "ground_truth": "<SIL>",
+    "prediction": " Thank you."
+  },
+  {
+    "id": "POD1000000013_S0000017",
+    "ground_truth": "I CAME FROM VERY RELIGIOUS BACKGROUND <COMMA> WHERE VALUES WERE VERY IMPORTANT <PERIOD>",
+    "prediction": " I came from a very religious background where values were very important."
+  },
+  {
+    "id": "YOU1000000162_S0000033",
+    "ground_truth": "SO EFFECTIVENESS OF THESE EARBUDS <PERIOD> IT HAS TO BE HAVE TO IN CORRELATION TO THIS PARTICULAR DEVICE <PERIOD>",
+    "prediction": " So the effectiveness of either of these earbuds has to be in correlation to this particular device"
+  },
+  {
+    "id": "YOU1000000180_S0000010",
+    "ground_truth": "<MUSIC>",
+    "prediction": " you"
+  },
+  {
+    "id": "YOU1000000103_S0000179",
+    "ground_truth": "EXPERTS SAY PATIENTS SHOULD ADVOCATE FOR THEMSELVES AND ASK THEIR PRIMARY CARE DOCTORS IF IT'S RIGHT FOR THEM <PERIOD>",
+    "prediction": " Experts say patients should advocate for themselves and ask their primary care doctors if it's right for them."
+  },
+  {
+    "id": "POD1000000043_S0000060",
+    "ground_truth": "MATH <COMMA> SCIENCE <PERIOD>",
+    "prediction": " Maths, science."
+  },
+  {
+    "id": "YOU1000000155_S0000057",
+    "ground_truth": "MINUS THE REPAIR COST SO EXAMPLE IF A HOLE WOULD SELL FOR THREE HUNDRED GRAND ALL FIXED UP AND THE PROPERTY NEEDED FIFTY GRAND WORTH OF WORK TO GET THERE <PERIOD>",
+    "prediction": " MINUS the repair costs. So, example, if a hold would sell for 300 grand, all fixed up, and the property needed 50 grand worth of work to get there,"
+  },
+  {
+    "id": "POD1000000019_S0000132",
+    "ground_truth": "HERE <COMMA> ON JEANNIE'S SIDE <COMMA> SHE WANTS TO LISTEN TO HARPER VALLEY P T A BEFORE SHE AGREES TO ANYTHING <PERIOD> HER MANAGER <COMMA> PAUL PERRY <COMMA> THINKS SHE'S CRAZY FOR NOT GETTING ON BOARD <COMMA> SIGHT UNSEEN <COMMA> BUT HE BRINGS HER A TAPE <PERIOD> SHE DOESN'T LIKE THE SONG <PERIOD>",
+    "prediction": " Here on Genie's side, she wants to listen to Harper Valley PTA before she agrees to anything. Her manager, Paul Perry, thinks she's crazy for not getting on board, sight unseen, but he brings her a tape. She doesn't like the song."
+  },
+  {
+    "id": "YOU1000000037_S0000576",
+    "ground_truth": "I'M SERIOUS I MEAN RIVER WHY PHYSICS <PERIOD> I'LL TELL YOU WHERE SHE IS <PERIOD>",
+    "prediction": " I'm serious. I mean River wife is I'll tell you where she is"
+  },
+  {
+    "id": "YOU1000000127_S0000023",
+    "ground_truth": "AND THE COVID NINETEEN PANDEMIC COULD SOON DRIVE AN ANOTHER FORTY MILLION PEOPLE IN SUB-SAHARAN AFRICA INTO EXTREME POVERTY <PERIOD>",
+    "prediction": " And the COVID-19 pandemic could soon drive another 40 million people in sub-Saharan Africa into extreme poverty."
+  }
+]

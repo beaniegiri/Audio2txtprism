@@ -1,2 +1,6 @@
 audio.wav
+venv/
+hf_datasets
+Miniconda3-latest-Linux-aarch64.sh
+Miniconda3-latest-Linux-x86_64.sh
 
