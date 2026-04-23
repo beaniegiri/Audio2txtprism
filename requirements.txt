@@ -6,3 +6,4 @@ ffmpeg
 whisper
 soundfile
 jiwer
+matplotlib
