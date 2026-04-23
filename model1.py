@@ -1,4 +1,4 @@
-import whisper
+import whispere
 import os
 
 os.environ["PATH"] += os.pathsep + r"C:\Users\binis\OneDrive\Documents\PRISM\ffmpeg-8.1-essentials_build\ffmpeg-8.1-essentials_build\bin"
