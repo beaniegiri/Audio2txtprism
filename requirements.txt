@@ -1,3 +1,13 @@
 datasets
 torch
+<<<<<<< HEAD
 pandas
+=======
+pandas
+torchcodec
+ffmpeg
+whisper
+soundfile
+jiwer
+matplotlib
+>>>>>>> TEST
