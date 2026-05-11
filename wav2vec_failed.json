@@ -1,0 +1,512 @@
+[
+  {
+    "index": 910,
+    "segment_id": "YOU1000000144_S0000086",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 993,
+    "segment_id": "YOU1000000121_S0000083",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 2639,
+    "segment_id": "YOU1000000149_S0000183",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 2920,
+    "segment_id": "YOU1000000106_S0000212",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 3235,
+    "segment_id": "YOU1000000120_S0000073",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 3240,
+    "segment_id": "YOU1000000111_S0000144",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 3489,
+    "segment_id": "YOU1000000135_S0000083",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 3838,
+    "segment_id": "YOU1000000181_S0000056",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 3873,
+    "segment_id": "YOU1000000102_S0000249",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 4457,
+    "segment_id": "YOU1000000189_S0000063",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 4610,
+    "segment_id": "YOU1000000119_S0000091",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 4659,
+    "segment_id": "YOU1000000129_S0000093",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 4872,
+    "segment_id": "YOU1000000105_S0000067",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 5168,
+    "segment_id": "YOU1000000160_S0000087",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 5173,
+    "segment_id": "YOU1000000124_S0000126",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 5358,
+    "segment_id": "YOU1000000118_S0000050",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 5426,
+    "segment_id": "YOU1000000147_S0000045",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 5505,
+    "segment_id": "YOU1000000163_S0000093",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 5927,
+    "segment_id": "YOU1000000159_S0000072",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 6052,
+    "segment_id": "YOU1000000176_S0000086",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 6158,
+    "segment_id": "YOU1000000155_S0000087",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 6648,
+    "segment_id": "YOU1000000110_S0000180",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 6705,
+    "segment_id": "YOU1000000114_S0000005",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 6881,
+    "segment_id": "YOU1000000110_S0000198",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 7208,
+    "segment_id": "YOU1000000159_S0000047",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 7541,
+    "segment_id": "YOU1000000128_S0000258",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 7572,
+    "segment_id": "YOU1000000127_S0000055",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 7739,
+    "segment_id": "YOU1000000179_S0000024",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 8314,
+    "segment_id": "YOU1000000166_S0000065",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 8557,
+    "segment_id": "YOU1000000176_S0000113",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 8613,
+    "segment_id": "YOU1000000106_S0000127",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 8796,
+    "segment_id": "YOU1000000149_S0000057",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 8855,
+    "segment_id": "YOU1000000160_S0000099",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 8865,
+    "segment_id": "YOU1000000128_S0000231",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 9475,
+    "segment_id": "YOU1000000129_S0000033",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 9507,
+    "segment_id": "YOU1000000147_S0000094",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 9664,
+    "segment_id": "YOU1000000185_S0000158",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 9828,
+    "segment_id": "YOU1000000166_S0000142",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 10670,
+    "segment_id": "YOU1000000136_S0000287",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 10955,
+    "segment_id": "YOU1000000161_S0000202",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 11094,
+    "segment_id": "YOU1000000161_S0000274",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 11551,
+    "segment_id": "YOU1000000124_S0000066",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 11763,
+    "segment_id": "YOU1000000110_S0000057",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 11799,
+    "segment_id": "YOU1000000177_S0000036",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 11810,
+    "segment_id": "YOU1000000135_S0000049",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 11943,
+    "segment_id": "YOU1000000147_S0000116",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 12446,
+    "segment_id": "YOU1000000124_S0000187",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 12785,
+    "segment_id": "YOU1000000104_S0000032",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 12833,
+    "segment_id": "YOU1000000118_S0000054",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 13242,
+    "segment_id": "YOU1000000107_S0000105",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 13259,
+    "segment_id": "YOU1000000148_S0000081",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 13344,
+    "segment_id": "YOU1000000188_S0000078",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 14565,
+    "segment_id": "YOU1000000187_S0000092",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 14611,
+    "segment_id": "YOU1000000174_S0000057",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 14730,
+    "segment_id": "YOU1000000191_S0000147",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 14813,
+    "segment_id": "YOU1000000170_S0000125",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 15276,
+    "segment_id": "YOU1000000166_S0000110",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 15304,
+    "segment_id": "YOU1000000103_S0000219",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 15810,
+    "segment_id": "YOU1000000102_S0000121",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 16369,
+    "segment_id": "YOU1000000172_S0000119",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 16630,
+    "segment_id": "YOU1000000130_S0000077",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 16861,
+    "segment_id": "YOU1000000162_S0000053",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 17046,
+    "segment_id": "YOU1000000128_S0000100",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 17565,
+    "segment_id": "YOU1000000107_S0000187",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 17671,
+    "segment_id": "YOU1000000112_S0000215",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 17766,
+    "segment_id": "YOU1000000129_S0000065",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 17962,
+    "segment_id": "YOU1000000157_S0000126",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 18705,
+    "segment_id": "YOU1000000116_S0000071",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 19366,
+    "segment_id": "YOU1000000130_S0000030",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 19421,
+    "segment_id": "YOU1000000121_S0000075",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 20003,
+    "segment_id": "YOU1000000126_S0000192",
+    "error": "getFramesPlayedInRangeAudio, /__w/torchcodec/torchcodec/meta-pytorch/torchcodec/src/torchcodec/_core/SingleStreamDecoder.cpp:1181, No audio frames were decoded. This is probably because start_seconds is too high(0),or because stop_seconds(nullopt) is too low."
+  },
+  {
+    "index": 20147,
+    "segment_id": "YOU1000000162_S0000075",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 20640,
+    "segment_id": "YOU1000000172_S0000047",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 20961,
+    "segment_id": "YOU1000000114_S0000013",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21021,
+    "segment_id": "YOU1000000103_S0000052",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21055,
+    "segment_id": "YOU1000000137_S0000367",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21075,
+    "segment_id": "YOU1000000105_S0000145",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21132,
+    "segment_id": "YOU1000000180_S0000042",
+    "error": "Calculated padded input size per channel: (2). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21204,
+    "segment_id": "YOU1000000113_S0000081",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21329,
+    "segment_id": "YOU1000000111_S0000081",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21513,
+    "segment_id": "YOU1000000115_S0000113",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21698,
+    "segment_id": "YOU1000000123_S0000064",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 21810,
+    "segment_id": "YOU1000000156_S0000112",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 22018,
+    "segment_id": "YOU1000000136_S0000460",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 22019,
+    "segment_id": "YOU1000000189_S0000117",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 22033,
+    "segment_id": "YOU1000000167_S0000255",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 22165,
+    "segment_id": "YOU1000000115_S0000169",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 22640,
+    "segment_id": "YOU1000000163_S0000049",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 22936,
+    "segment_id": "YOU1000000161_S0000114",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23014,
+    "segment_id": "YOU1000000119_S0000052",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23148,
+    "segment_id": "YOU1000000184_S0000068",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23177,
+    "segment_id": "YOU1000000124_S0000217",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23198,
+    "segment_id": "YOU1000000127_S0000106",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23240,
+    "segment_id": "YOU1000000113_S0000204",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23400,
+    "segment_id": "YOU1000000109_S0000060",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23682,
+    "segment_id": "YOU1000000128_S0000161",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23752,
+    "segment_id": "YOU1000000183_S0000101",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23880,
+    "segment_id": "YOU1000000151_S0000164",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 23949,
+    "segment_id": "YOU1000000157_S0000167",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 24211,
+    "segment_id": "YOU1000000183_S0000149",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (3). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 24325,
+    "segment_id": "YOU1000000120_S0000059",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  },
+  {
+    "index": 25128,
+    "segment_id": "YOU1000000152_S0000202",
+    "error": "Calculated padded input size per channel: (1). Kernel size: (2). Kernel size can't be greater than actual input size"
+  }
+]
